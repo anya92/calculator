@@ -52,6 +52,6 @@ button:hover {
   #calculator {
     position: relative;
     width: 100%;
-
+    margin: 10px auto;
   }
 }
